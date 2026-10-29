@@ -1,0 +1,22 @@
+{
+  "slug": "milei-says",
+  "name": "Milei Says",
+  "wordmark": "MILEI",
+  "subject": "Javier Milei",
+  "handle": "JMilei",
+  "initials": "JM",
+  "color": "#726184",
+  "profile": "https://x.com/JMilei",
+  "origin": "https://nanalab.kr/milei-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
