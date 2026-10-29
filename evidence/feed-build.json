@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "posts_considered": 19,
+  "known_like_counts": 11,
+  "unknown_like_counts": 8,
+  "popular_ids": [
+    "x-1896380573670572166",
+    "x-2114758885193965570",
+    "x-2114122499051176020",
+    "x-2115472929852977203",
+    "x-2115114062027616684",
+    "x-2114818530499535288",
+    "x-2115530414978699300",
+    "x-2115077286311432471",
+    "x-2114191179289907330",
+    "x-2114453768750149832",
+    "x-2115528082605912282"
+  ],
+  "popular_count": 11,
+  "latest_count": 8,
+  "latest_ids": [
+    "x-2115562573999243635",
+    "x-2115528855897227617",
+    "x-2115398287985451133",
+    "x-2115385576161497562",
+    "x-2115128761045729353",
+    "x-2115089712763347110",
+    "x-2114817996640186422",
+    "x-2114336857056022718"
+  ],
+  "page_size": 20,
+  "html_feed_pages": 1,
+  "home_latest_count": 8,
+  "duplicate_popular_latest": false,
+  "like_policy": "Known source snapshot integers only; null is not zero. Ties use newest collected time.",
+  "body_policy": "Original platform embeds load automatically. Uncleared post bodies are not redistributed. Separate local TXT archive is outside the public repository."
+}

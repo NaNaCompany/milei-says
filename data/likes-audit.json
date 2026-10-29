@@ -1,0 +1,402 @@
+{
+  "status": "passed",
+  "slug": "milei-says",
+  "records": 19,
+  "known": 11,
+  "unknown": 8,
+  "repeated_record_observations": 0,
+  "same_time_conflicts": 0,
+  "original_records_sha256": "491a5304f5daad5d663705b73dbfd1027800dd7204794e2abf57e7a9eb8e8b42",
+  "source_audit_sha256": "ec8b25aae7f0bb184b22ed46e07372bab33d3bdefbf63c32bfa3001ac461cead",
+  "classification_evidence_sha256": "3df6f83f148bb1ea24ef04d8163a4868e58801cd859931ae66bc4a7994262fc3",
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies",
+      "sha256": "3ae420bed624458a01213b64dce053e28eb3947b1d171e7a16b0482fedd08084",
+      "matched_like_stat_occurrences": 1
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__-oLAAIAAAATMjExNTU2MDU3NzcxNjQxMjQ3OAgAAwAAAAIAAA",
+      "sha256": "87751ef0cf95e577e676c0079089754c569e3e482216739813f683bffb2236d9",
+      "matched_like_stat_occurrences": 1
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__9ULAAIAAAATMjExNTUyOTk4ODM1OTQ5MTY5NAgAAwAAAAIAAA",
+      "sha256": "55c109f77cf85f5561cf53aa6781a26bb87cfd60bd082da74be88d5d9a73991c",
+      "matched_like_stat_occurrences": 2
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__8ALAAIAAAATMjExNTM5ODI0NzM4ODY4MDM2NAgAAwAAAAIAAA",
+      "sha256": "30c81d19b3ef201ce92cc5534359f4870a03baaae7f6b899dac0a88c85d2272a",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__6sLAAIAAAATMjExNTI3Mjk4MjQ0MDMzNzc4NggAAwAAAAIAAA",
+      "sha256": "af8731e5fbb9b4705d8238cd3d04325d2a6b7be9a771c47f826f9114a39b910c",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__5YLAAIAAAATMjExNTIzNTU4MDAwMjkyNzAyNwgAAwAAAAIAAA",
+      "sha256": "13146e5e8a739b974a8fa1f7efe78d00c3c4f78326766b9f73f5b98c3ca285a2",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__4ELAAIAAAATMjExNTIyMjg5MDY1NjI0ODA4NwgAAwAAAAIAAA",
+      "sha256": "3fbd740ffee913e3de0403100cbb1522c111b74abaad5a3b3598b2127693e259",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__2wLAAIAAAATMjExNTEyODc2MTA0NTcyOTM1MwgAAwAAAAIAAA",
+      "sha256": "59bc7601d6cafc7a969833eaba936b6dc86c68701da31e8512703568b4eda0f8",
+      "matched_like_stat_occurrences": 2
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__1cLAAIAAAATMjExNTA0MTUzMzAyMzkwMDEzMQgAAwAAAAIAAA",
+      "sha256": "3fa1e7f12752ac3d7f8956d698189ed79c0f7263fd91bca6d61f961337c71bc3",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__0ILAAIAAAATMjExNDg4NjM1OTY4OTA4OTA0NwgAAwAAAAIAAA",
+      "sha256": "ea870bfd0f568317f43fe19f07abc134f89015a3841ab8c31851bf10f39fd5c0",
+      "matched_like_stat_occurrences": 2
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__y0LAAIAAAATMjExNDc1ODg4NTE5Mzk2NTU3MAgAAwAAAAIAAA",
+      "sha256": "c1e9c7fb545b75a4fee3bf35543680a261dec1c0381fb3f07bbf8ccb9b933790",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__xgLAAIAAAATMjExNDQ2NTIxNzI1ODMyODU3MQgAAwAAAAIAAA",
+      "sha256": "36cc7bae010175c2823a17025b8d84eaaebae162d2856bf43b7ae9fac7acdd94",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__wMLAAIAAAATMjExNDQ1NzEwODgyNTY0OTQxNggAAwAAAAIAAA",
+      "sha256": "1eb8aba3ec3a0178a8c05a700a0a98ce6e1b3352a4cc6654cc63ef25d07eec78",
+      "matched_like_stat_occurrences": 1
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__u4LAAIAAAATMjExNDM5NTcwMzk1NDg3MDM1MwgAAwAAAAIAAA",
+      "sha256": "351e611b19362a274b6604170acf3d32b75671e8f353a55140452c0803106713",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__tkLAAIAAAATMjExNDMzNzk4Mzg1MTYxNDQ3NggAAwAAAAIAAA",
+      "sha256": "036cfcddb0a0be715e5f01bfb8d38815bf456be5001ccdfcce0f51c163dbf9bd",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__sQLAAIAAAATMjExNDE5MTYwMjU0MTMxMDA2NggAAwAAAAIAAA",
+      "sha256": "c183b33b48a219151d9a5a19a83cae6f31103cbc4e325b12429f1f75bc9922e5",
+      "matched_like_stat_occurrences": 1
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__q8LAAIAAAATMjExNDE4MDQ2ODI4MzIyMDA0NggAAwAAAAIAAA",
+      "sha256": "298cda6f8f55e697d6f6411f4218bd6c97d2434cf35a5d6023a99c381e75772b",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__poLAAIAAAATMjExNDE3NDU0NzA5NjIxOTk2NAgAAwAAAAIAAA",
+      "sha256": "de9bb57c4dbef95c2a6318818a0f6b921bca85931d4a9e2a8ba9b79c857c1258",
+      "matched_like_stat_occurrences": 0
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__oULAAIAAAATMjExNDE0MDg5NTY3NTAyMzU4OAgAAwAAAAIAAA",
+      "sha256": "1537c612be3c15b6ae78238a52821a26766e8712554f6dbb1b7b0aebba984a0b",
+      "matched_like_stat_occurrences": 1
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__nALAAIAAAATMjExNDEwNDcxMzQ5NDc5ODgxNQgAAwAAAAIAAA",
+      "sha256": "a1972f7f221ca67590d4450fad08e0b1b26129d29402388f4b714ae854cc161a",
+      "matched_like_stat_occurrences": 0
+    }
+  ],
+  "unsupported_or_missing_displays": {
+    "(empty)": 8
+  },
+  "policy": "Use latest known timestamp; select minimum observed value for same-time conflicts. Missing counts stay null. Counts are snapshot values, not live totals. captured_at is the source audit collection-run start, not a per-page observation time.",
+  "selection": {
+    "x-2115562573999243635": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2115530414978699300": {
+      "status": "known",
+      "selected": {
+        "like_count": 6020,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__-oLAAIAAAATMjExNTU2MDU3NzcxNjQxMjQ3OAgAAwAAAAIAAA",
+        "source_sha256": "87751ef0cf95e577e676c0079089754c569e3e482216739813f683bffb2236d9",
+        "display": "6,020"
+      },
+      "observations": [
+        {
+          "like_count": 6020,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__-oLAAIAAAATMjExNTU2MDU3NzcxNjQxMjQ3OAgAAwAAAAIAAA",
+          "source_sha256": "87751ef0cf95e577e676c0079089754c569e3e482216739813f683bffb2236d9",
+          "display": "6,020"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115528855897227617": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2115528082605912282": {
+      "status": "known",
+      "selected": {
+        "like_count": 2740,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__9ULAAIAAAATMjExNTUyOTk4ODM1OTQ5MTY5NAgAAwAAAAIAAA",
+        "source_sha256": "55c109f77cf85f5561cf53aa6781a26bb87cfd60bd082da74be88d5d9a73991c",
+        "display": "2,740"
+      },
+      "observations": [
+        {
+          "like_count": 2740,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__9ULAAIAAAATMjExNTUyOTk4ODM1OTQ5MTY5NAgAAwAAAAIAAA",
+          "source_sha256": "55c109f77cf85f5561cf53aa6781a26bb87cfd60bd082da74be88d5d9a73991c",
+          "display": "2,740"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115472929852977203": {
+      "status": "known",
+      "selected": {
+        "like_count": 11743,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__9ULAAIAAAATMjExNTUyOTk4ODM1OTQ5MTY5NAgAAwAAAAIAAA",
+        "source_sha256": "55c109f77cf85f5561cf53aa6781a26bb87cfd60bd082da74be88d5d9a73991c",
+        "display": "11,743"
+      },
+      "observations": [
+        {
+          "like_count": 11743,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__9ULAAIAAAATMjExNTUyOTk4ODM1OTQ5MTY5NAgAAwAAAAIAAA",
+          "source_sha256": "55c109f77cf85f5561cf53aa6781a26bb87cfd60bd082da74be88d5d9a73991c",
+          "display": "11,743"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115398287985451133": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2115385576161497562": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2115128761045729353": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2115114062027616684": {
+      "status": "known",
+      "selected": {
+        "like_count": 7873,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__2wLAAIAAAATMjExNTEyODc2MTA0NTcyOTM1MwgAAwAAAAIAAA",
+        "source_sha256": "59bc7601d6cafc7a969833eaba936b6dc86c68701da31e8512703568b4eda0f8",
+        "display": "7,873"
+      },
+      "observations": [
+        {
+          "like_count": 7873,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__2wLAAIAAAATMjExNTEyODc2MTA0NTcyOTM1MwgAAwAAAAIAAA",
+          "source_sha256": "59bc7601d6cafc7a969833eaba936b6dc86c68701da31e8512703568b4eda0f8",
+          "display": "7,873"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115089712763347110": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2115077286311432471": {
+      "status": "known",
+      "selected": {
+        "like_count": 4803,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__2wLAAIAAAATMjExNTEyODc2MTA0NTcyOTM1MwgAAwAAAAIAAA",
+        "source_sha256": "59bc7601d6cafc7a969833eaba936b6dc86c68701da31e8512703568b4eda0f8",
+        "display": "4,803"
+      },
+      "observations": [
+        {
+          "like_count": 4803,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__2wLAAIAAAATMjExNTEyODc2MTA0NTcyOTM1MwgAAwAAAAIAAA",
+          "source_sha256": "59bc7601d6cafc7a969833eaba936b6dc86c68701da31e8512703568b4eda0f8",
+          "display": "4,803"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114818530499535288": {
+      "status": "known",
+      "selected": {
+        "like_count": 6957,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__0ILAAIAAAATMjExNDg4NjM1OTY4OTA4OTA0NwgAAwAAAAIAAA",
+        "source_sha256": "ea870bfd0f568317f43fe19f07abc134f89015a3841ab8c31851bf10f39fd5c0",
+        "display": "6,957"
+      },
+      "observations": [
+        {
+          "like_count": 6957,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__0ILAAIAAAATMjExNDg4NjM1OTY4OTA4OTA0NwgAAwAAAAIAAA",
+          "source_sha256": "ea870bfd0f568317f43fe19f07abc134f89015a3841ab8c31851bf10f39fd5c0",
+          "display": "6,957"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114817996640186422": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2114758885193965570": {
+      "status": "known",
+      "selected": {
+        "like_count": 22272,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__0ILAAIAAAATMjExNDg4NjM1OTY4OTA4OTA0NwgAAwAAAAIAAA",
+        "source_sha256": "ea870bfd0f568317f43fe19f07abc134f89015a3841ab8c31851bf10f39fd5c0",
+        "display": "22,272"
+      },
+      "observations": [
+        {
+          "like_count": 22272,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__0ILAAIAAAATMjExNDg4NjM1OTY4OTA4OTA0NwgAAwAAAAIAAA",
+          "source_sha256": "ea870bfd0f568317f43fe19f07abc134f89015a3841ab8c31851bf10f39fd5c0",
+          "display": "22,272"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114453768750149832": {
+      "status": "known",
+      "selected": {
+        "like_count": 3614,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__wMLAAIAAAATMjExNDQ1NzEwODgyNTY0OTQxNggAAwAAAAIAAA",
+        "source_sha256": "1eb8aba3ec3a0178a8c05a700a0a98ce6e1b3352a4cc6654cc63ef25d07eec78",
+        "display": "3,614"
+      },
+      "observations": [
+        {
+          "like_count": 3614,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__wMLAAIAAAATMjExNDQ1NzEwODgyNTY0OTQxNggAAwAAAAIAAA",
+          "source_sha256": "1eb8aba3ec3a0178a8c05a700a0a98ce6e1b3352a4cc6654cc63ef25d07eec78",
+          "display": "3,614"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114336857056022718": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2114191179289907330": {
+      "status": "known",
+      "selected": {
+        "like_count": 4096,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__sQLAAIAAAATMjExNDE5MTYwMjU0MTMxMDA2NggAAwAAAAIAAA",
+        "source_sha256": "c183b33b48a219151d9a5a19a83cae6f31103cbc4e325b12429f1f75bc9922e5",
+        "display": "4,096"
+      },
+      "observations": [
+        {
+          "like_count": 4096,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__sQLAAIAAAATMjExNDE5MTYwMjU0MTMxMDA2NggAAwAAAAIAAA",
+          "source_sha256": "c183b33b48a219151d9a5a19a83cae6f31103cbc4e325b12429f1f75bc9922e5",
+          "display": "4,096"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114122499051176020": {
+      "status": "known",
+      "selected": {
+        "like_count": 20279,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__oULAAIAAAATMjExNDE0MDg5NTY3NTAyMzU4OAgAAwAAAAIAAA",
+        "source_sha256": "1537c612be3c15b6ae78238a52821a26766e8712554f6dbb1b7b0aebba984a0b",
+        "display": "20,279"
+      },
+      "observations": [
+        {
+          "like_count": 20279,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies?cursor=DAAHCgABHVwYG36__oULAAIAAAATMjExNDE0MDg5NTY3NTAyMzU4OAgAAwAAAAIAAA",
+          "source_sha256": "1537c612be3c15b6ae78238a52821a26766e8712554f6dbb1b7b0aebba984a0b",
+          "display": "20,279"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-1896380573670572166": {
+      "status": "known",
+      "selected": {
+        "like_count": 73628,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies",
+        "source_sha256": "3ae420bed624458a01213b64dce053e28eb3947b1d171e7a16b0482fedd08084",
+        "display": "73,628"
+      },
+      "observations": [
+        {
+          "like_count": 73628,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/JMilei/with_replies",
+          "source_sha256": "3ae420bed624458a01213b64dce053e28eb3947b1d171e7a16b0482fedd08084",
+          "display": "73,628"
+        }
+      ],
+      "same_time_conflict": false
+    }
+  }
+}
